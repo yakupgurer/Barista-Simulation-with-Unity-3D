@@ -1,2 +1,2 @@
-# Unity-3D-Ile-Barista-Simulasyonu
-Unity 3D ile Oculus Quest 2 cihaz uyumlu Sanal Gerçeklik projesi kapsamında gerçekleştirilen Barista Simulasyonu uygulaması
+# Barista Simulation with Unity 3D
+Barista Simulation application implemented within the scope of the Virtual Reality project compatible with Oculus Quest 2 device using Unity 3D.
